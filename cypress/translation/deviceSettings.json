@@ -1,0 +1,54 @@
+{
+  "translationDeviceSettings": {
+    "en": {
+      "back": "Back",
+      "deviceName": "Device name",
+      "description": "Description",
+      "charactersLeft": "characters left: 130",
+      "charactersLeftTest": "characters left: 125",
+      "company": "Company",
+      "uponReceiptNewMeasurement": "Video stream after measurement",
+      "save": "Save"
+    },
+    "ru": {
+      "back": "Назад",
+      "deviceName": "Имя устройства",
+      "description": "Описание",
+      "charactersLeft": "осталось символов: 130",
+      "charactersLeftTest": "осталось символов: 125",
+      "company": "Компания",
+      "uponReceiptNewMeasurement": "Видеотрансляция при получении нового измерения",
+      "save": "Сохранить"
+    },
+    "el": {
+      "back": "Πίσω",
+      "deviceName": "Όνομα συσκευής",
+      "description": "Περιγραφή",
+      "charactersLeft": "έμεινε χαρακτήρες: 130",
+      "charactersLeftTest": "έμεινε χαρακτήρες: 125",
+      "company": "Εταιρεία",
+      "uponReceiptNewMeasurement": "Video stream μετά τη μέτρηση",
+      "save": "Αποθήκευση"
+    },
+    "kz": {
+      "back": "Артқа жылжыңыз",
+      "deviceName": "Құрылғы атауы",
+      "description": "Сипаттамасы",
+      "charactersLeft": "символдар қалды: 130",
+      "charactersLeftTest": "символдар қалды: 125",
+      "company": "Компания",
+      "uponReceiptNewMeasurement": "Жаңа өлшем алу кезіндегі бейнетрансляция",
+      "save": "Сақтау"
+    },
+    "cs": {
+      "back": "Zpět",
+      "deviceName": "Jméno zařízení",
+      "description": "Popis",
+      "charactersLeft": "Zbývá znaků: 130",
+      "charactersLeftTest": "Zbývá znaků: 125",
+      "company": "Společnost",
+      "uponReceiptNewMeasurement": "Video vysílání když je přijato nové měření",
+      "save": "Uložit"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "autotests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "e2e": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.1.0",
+    "cypress-plugin-tab": "^1.0.5"
+  },
+  "dependencies": {
+    "wd": "^1.14.0"
+  }
+}

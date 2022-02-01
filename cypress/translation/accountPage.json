@@ -1,0 +1,49 @@
+{
+  "translationAccount": {
+    "en": {
+      "devices": "Devices",
+      "accounts": "Accounts",
+      "createDate": "Created",
+      "company": "Company",
+      "login": "Username",
+      "pagination": "Show",
+      "manager": "Manager"
+    },
+    "ru": {
+      "devices": "Устройства",
+      "accounts": "Учетные записи",
+      "createDate": "Дата создания",
+      "company": "Компания",
+      "login": "Логин",
+      "pagination": "Отображать по",
+      "manager": "Менеджер"
+    },
+    "el": {
+      "devices": "Συσκευές",
+      "accounts": "Λογαριασμοί",
+      "createDate": "Ημερομηνία δημιουργίας",
+      "company": "Εταιρεία",
+      "login": "Όνομα χρήστη",
+      "pagination": "Αριθμός μετρήσεων",
+      "manager": "Διευθυντής"
+    },
+    "kz": {
+      "devices": "Құрылғы",
+      "accounts": "Аккаунттар",
+      "createDate": "Жасалған күні",
+      "company": "Компания",
+      "login": "Пайдаланушы аты",
+      "pagination": "Көрсету",
+      "manager": "Менеджер"
+    },
+    "cs": {
+      "devices": "Zařízení",
+      "accounts": "Účty",
+      "createDate": "Datum vytvoření",
+      "company": "Společnost",
+      "login": "Vstup",
+      "pagination": "Zobrazit pomocí",
+      "manager": "Manažer"
+    }
+  }
+}

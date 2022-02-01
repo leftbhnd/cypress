@@ -1,0 +1,59 @@
+{
+  "translationDevice": {
+    "en": {
+      "devices": "Devices",
+      "accounts": "Accounts",
+      "date": "Date",
+      "deviceName": "Device name",
+      "status": "Status",
+      "pagination": "Show",
+      "manager": "Manager",
+      "off": "Off",
+      "on": "On"
+    },
+    "ru": {
+      "devices": "Устройства",
+      "accounts": "Учетные записи",
+      "date": "Дата",
+      "deviceName": "Имя устройства",
+      "status": "Статус",
+      "pagination": "Отображать по",
+      "manager": "Менеджер",
+      "off": "Off",
+      "on": "On"
+    },
+    "el": {
+      "devices": "Συσκευές",
+      "accounts": "Λογαριασμοί",
+      "date": "Ημέρα",
+      "deviceName": "Όνομα συσκευής",
+      "status": "Κατάσταση",
+      "pagination": "Αριθμός μετρήσεων",
+      "manager": "Διευθυντής",
+      "off": "Off",
+      "on": "On"
+    },
+    "kz": {
+      "devices": "Құрылғы",
+      "accounts": "Аккаунттар",
+      "date": "Күні",
+      "deviceName": "Құрылғы атауы",
+      "status": "Дәреже",
+      "pagination": "Көрсету",
+      "manager": "Менеджер",
+      "off": "Өшірулі",
+      "on": "Қосулы"
+    },
+    "cs": {
+      "devices": "Zařízení",
+      "accounts": "Účty",
+      "date": "Datum",
+      "deviceName": "Jméno zařízení",
+      "status": "Status",
+      "pagination": "Zobrazit pomocí",
+      "manager": "Manažer",
+      "off": "Off",
+      "on": "On"
+    }
+  }
+}

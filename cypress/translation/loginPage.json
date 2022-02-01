@@ -1,0 +1,66 @@
+{
+  "translationLogin": {
+    "en": {
+      "PHlogin": "Username",
+      "PHpassword": "Password",
+      "tittle": "Login",
+      "checkbox": "Remember me",
+      "button": "Enter",
+      "forget": "Forgot password?"
+    },
+    "ru": {
+      "PHlogin": "Введите логин",
+      "PHpassword": "Введите пароль",
+      "tittle": "Вход",
+      "checkbox": "Запомнить меня на этом устройстве",
+      "button": "Войти",
+      "forget": "Забыли пароль?"
+    },
+    "el": {
+      "PHlogin": "Όνομα χρήστη",
+      "PHpassword": "Κωδικός",
+      "tittle": "Σύνδεση",
+      "checkbox": "Απομνημόνευση",
+      "button": "Είσοδος",
+      "forget": "Υπενθύμιση συνθηματικού?"
+    },
+    "kz": {
+      "PHlogin": "Пайдаланушы аты",
+      "PHpassword": "Құпия сөз",
+      "tittle": "Кіру",
+      "checkbox": "Мына құрылғыда мені есте сақтаңыз",
+      "button": "Енгізу",
+      "forget": "Құпия сөзіңізді ұмыттыңыз ба?"
+    }
+  },
+  "errorsLogin": {
+    "en": {
+      "typeLogin": "Enter your username",
+      "typePassword": "Enter the password",
+      "incorrect": "Invalid username or password"
+    },
+    "ru": {
+      "typeLogin": "Заполните логин",
+      "typePassword": "Заполните пароль",
+      "incorrect": "Неверный логин или пароль"
+    },
+    "el": {
+      "typeLogin": "Εισάγετε το όνομα χρήστη",
+      "typePassword": "Εισάγετε τον κωδικό",
+      "incorrect": "Λάθος συνδυασμός συνθηματικών"
+    },
+    "kz": {
+      "typeLogin": "Пайдаланушы атын енгізіңіз",
+      "typePassword": "Құпия сөзді енгізіңіз",
+      "incorrect": "Пайдаланушы аты/құпия сөз қате"
+    },
+    "cs": {
+      "PHlogin": "Zadejte uživatelské jméno",
+      "PHpassword": "Zadejte heslo",
+      "tittle": "Vstup",
+      "checkbox": "Pamatovat si mě na tomto zařízení",
+      "button": "Vstoupit",
+      "forget": "Zapomněli jste heslo?"
+    }
+  }
+}
